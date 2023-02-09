@@ -1,5 +1,17 @@
-TerpAlert
 
+
+
+
+
+
+
+
+
+
+
+
+
+TerpAlert
 
 Inspiration:
         I go to a large public school where college sports are a big thing. Students get tickets for free, but the amount of students are much greater than the
