@@ -5,5 +5,4 @@ I go to a large public school where college sports are a big thing. Students get
         
         
 ### Process:
-        The process initially was very confusing. I first had to create a twilio account and get my twilio phone number which would message my actual phone number.
-        I then had to research how to import twilio, and the functions that come with the libary. After that, I had to learn how to utilize the imaplib library to               connect to my school email that receives the student tickets notification.
+The process initially was very confusing. I first had to create a twilio account and get my twilio phone number which would message my actual phone number. I then had to research how to import twilio, and the functions that come with the libary. After that, I had to learn how to utilize the imaplib library to connect to my school email that receives the student tickets notification.
